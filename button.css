@@ -1,0 +1,66 @@
+#search {
+  width: 100px;
+}
+
+#pageTitle {
+  width: 200px
+}
+
+input {
+  height: 24px
+}
+
+#logo {
+  width: 400px;
+}
+
+.container {
+  float: left;
+  width: 400px;
+  display: inline-block;
+  margin-bottom: 25px;
+
+}
+
+#addBookmark {
+  height: 30px;
+  width: 30px;
+  padding-left: 1.5px;
+  padding-right: 2.5px;
+  position: absolute;
+  margin-left: 2.5px;
+}
+
+.listContainer {
+  height: 400px;
+
+}
+
+#pic_bookmark {
+  height: 25px;
+
+
+}
+
+
+.goToButton {
+  width: 35px;
+  height: 35px;
+  padding-left: 2px;
+  padding-right: 1px;
+  padding-top: 2.2px;
+}
+
+.goToIcon {
+  height: 26px;
+}
+
+p {
+  font-size: 25px;
+
+}
+
+
+body {
+  background: linear-gradient(#FF7A7A, #BB1616) fixed;
+}
